@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Midhat93
-- 👀 I’m interested in Playing batminton and Traveling
+- 👀 I’m interested in Playing badminton and Traveling
 - 🌱 I’m currently learning Cypress
 - 💞️ I’m looking to collaborate on Automation Projects
 - 📫 Reach me "midhatfatima993@gmail.com"
